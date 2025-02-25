@@ -7,8 +7,8 @@ Network Sockets (Remote IPC): Used for communication across different machines o
 
 Applications:
 
-Database Communication: Clients and servers communicate via sockets (locally or over a network).
-Web Servers and Clients: Web servers (e.g., Apache) and app servers (e.g., Node.js) communicate via sockets.
-Distributed Systems: Microservices and distributed systems rely on IPC sockets for data exchange.
-Message Queues: Tools like RabbitMQ and Redis use sockets for inter-process communication.
-Real-time Applications: Online games, streaming, and chat apps use network sockets for real-time communication.
+Database Communication: Clients and servers communicate via sockets (locally or over a network).\n
+Web Servers and Clients: Web servers (e.g., Apache) and app servers (e.g., Node.js) communicate via sockets.\n
+Distributed Systems: Microservices and distributed systems rely on IPC sockets for data exchange.\n
+Message Queues: Tools like RabbitMQ and Redis use sockets for inter-process communication.\n
+Real-time Applications: Online games, streaming, and chat apps use network sockets for real-time communication.\n
